@@ -12,9 +12,9 @@
             "server": "dpg-cnkh8gv109ks73d1s5pg-a.oregon-postgres.render.com",
             "driver": "PostgreSQL",
             "name": "CSE-Motors-DB",
-            "database": "csemotorsdb_8gig",
-            "username": "cse340",
-            "password": "ZNwM5EIxDadquNLudjAKjLiDR4igrgRZ",
+            "database": "byui_cse340",
+            "username": "byui_cse340_user",
+            "password": "HrggFRjNQY8kih6BiK9vrP74m5wBeOng",
             "connectString": "postgresql://byui_cse340_user:HrggFRjNQY8kih6BiK9vrP74m5wBeOng@dpg-crq5vulsvqrc73cqe470-a.oregon-postgres.render.com/byui_cse340"
         }
     ]
